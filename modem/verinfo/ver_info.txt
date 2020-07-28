@@ -1,0 +1,23 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.VT.5.3-00225.3-SM6150-1", 
+        "aop": "AOP.HO.2.0.3-00050-RENNELLAAAAANAZO-1", 
+        "boot": "BOOT.XF.3.1-00439-SM6150LZB-1.256939.1", 
+        "btfm": "BTFM.CHE.3.2.0-00335-QCACHROMZ-1.276950.1", 
+        "btfm_CHK": "BTFM.CHE.2.1.5-00202-QCACHROMZ-1", 
+        "cdsp": "CDSP.VT.2.3-00147-SM6150-1", 
+        "common": "Rennell.LA.1.0.c2-00011-STD.PROD-1.295334.1", 
+        "glue": "GLUE.RENNELL.LA.1.0-00073-NOOP_TEST-1", 
+        "modem": "MPSS.AT.4.4.c2-00006-RENNELL_GEN_PACK-1.295334.1", 
+        "npu": "NPU.FW.2.2-00030-RENNELL_NPU_PACK-1", 
+        "tz": "TZ.XF.5.0.3.c7-00014-S6150AAAAANAZT-1", 
+        "video": "VIDEO.VE.5.4-00026-PROD-1", 
+        "wlan": "WLAN.HL.3.2.2.c3-00021-QCAHLSWMTPLZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Rennell.LA.1.0.c2-00011-STD.PROD-1.295334.1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2020-07-15 15:05:09"
+    }, 
+    "Version": "1.0"
+}
